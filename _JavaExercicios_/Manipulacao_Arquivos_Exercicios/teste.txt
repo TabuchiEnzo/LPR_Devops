@@ -1,0 +1,2 @@
+Este é um exemplo de texto que será salvo no arquivo
+Você pode adicionar quantas linhas quiser

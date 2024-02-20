@@ -1,0 +1,3 @@
+Nicolas,4,3,5
+Enzo,10,10,10
+Eduardo,5,7,2

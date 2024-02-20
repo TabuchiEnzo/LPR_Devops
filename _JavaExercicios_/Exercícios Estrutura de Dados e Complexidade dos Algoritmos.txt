@@ -1,0 +1,11 @@
+Exercício 1: 
+f(n) = (n) + (n²)
+
+Exercício 2:
+f(n) = n³
+
+Exercício 3:
+f(n) = (n + n²) / 2
+
+Exercício 4:
+f(n) = (log2 n) + (n²) + (n/10)
